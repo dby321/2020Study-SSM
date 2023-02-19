@@ -1,0 +1,2 @@
+com\binyu\domain\User.class
+com\binyu\dao\IUserDao.class
